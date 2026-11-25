@@ -1,30 +1,17 @@
 # Marten Schlüter
 
-Software engineer and energy systems specialist building infrastructure at the intersection of DeSci and biotech. Currently contributing to [BIO Protocol](https://www.bio.xyz/).
-
-Based in Panama. Occasionally shipping products that people actually use.
-
-## Work
-
-**Full-stack development** – TypeScript, Python, Rust. The usual suspects.
-
-**DeSci & Biotech** – Working on decentralized science infrastructure. Turns out democratizing research is harder than deploying smart contracts.
-
-**Energy systems** – Background in power systems engineering. Yes, the grid is more fragile than you think.
-
-**ML/Data** – Building things that learn. Sometimes they even learn the right things.
+I'm a software engineer with a background in power systems engineering. I currently contribute to [BIO Protocol](https://www.bio.xyz/), building infrastructure for decentralized science and biotech. I work across the stack in TypeScript, Python and Rust, and often on data and machine learning problems.
 
 ## Projects
 
-[**summar.ee**](https://summar.ee) – Telegram bot for transcribing, translating, and summarizing voice messages. Because not everyone wants to listen to a 3-minute audio about what's for dinner.
+**[summar.ee](https://summar.ee)** is an AI assistant on Telegram that transcribes, translates and summarizes voice messages and audio files. Written in Python and actively maintained. [Source](https://github.com/maschlr/summaree_bot)
 
-[**urlwiz.io**](https://urlwiz.io) – AI-powered domain search. Finding good domains is hard. Finding *available* good domains is harder.
+**[urlwiz.io](https://urlwiz.io)** is an AI-powered domain name search, written in TypeScript. [Source](https://github.com/maschlr/domainwizard)
 
-[**abilit.ee**](https://abilit.ee) – Digital services company. [See more projects](https://abilit.ee/projects).
+**[abilit.ee](https://abilit.ee)** is my software development company. The site is built with Astro. [Source](https://github.com/maschlr/abilit.ee)
 
-[**diceduel**](https://t.me/diceduel_bot) – Dice game on Telegram. TypeScript + grammy on Deno Deploy. It's exactly what it sounds like.
+**[Solar potential of Thessaloniki](https://github.com/maschlr/solar-potential-thessaloniki)** is a solar potential analysis for the city, done in a Jupyter notebook. It comes from my power systems background.
 
 ## Contact
 
-📧 post@abilit.ee
-💼 [linkedin.com/in/marten-schlueter](https://linkedin.com/in/marten-schlueter)
+[post@abilit.ee](mailto:post@abilit.ee) · [linkedin.com/in/marten-schlueter](https://linkedin.com/in/marten-schlueter)
